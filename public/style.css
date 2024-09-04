@@ -1,0 +1,14 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  df-messenger {
+   --df-messenger-bot-message: #9d9fa7;
+   --df-messenger-button-titlebar-color: #000000;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #f55e5e;
+  }
